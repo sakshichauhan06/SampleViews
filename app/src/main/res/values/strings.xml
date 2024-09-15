@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SampleViews</string>
+    <string name="set_text">Set Text</string>
+    <string name="turn_on">Yes!</string>
+    <string name="turn_off">...No</string>
+</resources>
